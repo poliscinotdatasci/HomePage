@@ -7,6 +7,7 @@ authors:
   - DongtaoQi
   - SuixinZhang
   - admin
+doi: 10.1080/10670564.2022.2107390
 publication: in *Journal of Contemporary China*
 publication_short: in *Journal of Contemporary China*
 abstract: Based on a nine-city cell phone survey in 2019, this paper
