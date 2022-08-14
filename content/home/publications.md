@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: RECENT-POSTS
+widget_id: Publication
 headless: true
 weight: 40
 title: Publications
@@ -20,6 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: citation
+  view: card
   columns: "2"
 ---
