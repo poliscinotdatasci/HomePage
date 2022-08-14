@@ -1,0 +1,19 @@
+main:
+  - name: C.V.
+    url: uploads/resume.pdf
+    weight: 10
+  - name: Working in Progress
+    url: '#working'
+    weight: 20
+  - name: Publication
+    url: '#publication'
+    weight: 30
+  - name: Teaching
+    url: '#Teaching'
+    weight: 40
+  - name: Resources
+    url: '#Resources'
+    weight: 50
+  - name: Contact
+    url: '#contact'
+    weight: 60
