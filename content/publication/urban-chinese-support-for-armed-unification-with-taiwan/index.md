@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - DongtaoQi
-  - SuixinZhang
+  - Suixin Zhang
   - admin
 doi: 10.1080/10670564.2022.2107390
 publication: in *Journal of Contemporary China*
