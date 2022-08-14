@@ -5,7 +5,7 @@ subtitle: Generation, Class, Ethnicity, and Nationalism in Taiwan’s 2016
 publication_types:
   - "2"
 authors:
-  - DongtaoQi
+  - Dongtao Qi
   - admin
 doi: 10.1142/S1013251121500120
 publication: in *Issues and Studies*
@@ -35,5 +35,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: true
-date: 2022-08-14T16:20:47.067Z
+date: 2021-09-14T16:20:47.067Z
 ---
