@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Working
 headless: true
-weight: 60
+weight: 30
 title: Working in Progress
 subtitle: null
 content:
