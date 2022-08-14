@@ -3,7 +3,7 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 40
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
